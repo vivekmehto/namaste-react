@@ -1,0 +1,14 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Learning ReactJS with namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Vivek Mehto",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
